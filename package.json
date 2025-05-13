@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-content",
   "description": "调用 API 返回随机内容或发送本地随机内容",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "contributors": [
     "Yis_Rime <yis_rime@outlook.com>"
   ],
