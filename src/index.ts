@@ -82,7 +82,7 @@ export function apply(ctx: Context, config: Config) {
   }
 
   // 注册主命令
-  const main = ctx.command('content', '随机内容');
+  const main = ctx.command('contents', '随机内容');
   // 注册子命令
   config.commands.forEach(cmd => {
     main.subcommand(cmd.name, cmd.description)
